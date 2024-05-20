@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greeky-tarun&label=Profile%20views&color=0e75b6&style=flat" alt="greeky-tarun" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/greeky-tarun/greeky-tarun/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="[https://raw.githubusercontent.com/greeky-tarun/greeky-tarun/master/gif3.gif](https://media.giphy.com/media/bAplZhiLAsNnG/giphy.gif?cid=790b7611myepdw3y0zx6h8mruj1g1ul6efig62sp95lzjpe4&ep=v1_gifs_search&rid=giphy.gif&ct=g)">
 
 <p align="left"> <a href="https://twitter.com/kumar10_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/kumar10_tarun?logo=twitter&style=for-the-badge" alt="kumar10_tarun" /></a> </p>
 
