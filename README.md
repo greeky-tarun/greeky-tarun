@@ -1,10 +1,10 @@
-<h1 align="center">Hola 👋, I'm Tarun Kumar(TK)....</h1>
+<h1 align="center">Hola 👋....</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/greeky-tarun/greeky-tarun/main/banner.png"> </div>
-<h3 align="center">👋 Salutations, esteemed colleague! I’m Tarun, your frontend wizard from the vibrant land of India. By day, I conjure stunning web interfaces; by night. Ready to code and chuckle your way to greatness? Let’s dive in and make some magic together!</h3>
+<h3 align="center">👋 Salutations, esteemed colleague! I’m Tarun, your front-end wizard from the vibrant land of India. By day, I conjure stunning web interfaces; by night. Ready to code and chuckle your way to greatness? Let’s dive in and make some magic together!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=greeky-tarun&label=Profile%20views&color=0e75b6&style=flat" alt="greeky-tarun" /> </p>
 
-<img align="right" alt="Coding" width="400" src="https://tenor.com/pwwsXfN6OJq.gif">
+<img align="right" alt="Coding" width="400" src="[https://tenor.com/pwwsXfN6OJq.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzFhNG16YjF6NDJ3NXZxYWRuNmJjcHByYTlqNm81MmFydm81M2ZuaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tydpNxSnNEgLvDm11D/giphy.gif)">
 
 <p align="left"> <a href="https://twitter.com/kumar10_tarun" target="blank"><img src="https://img.shields.io/twitter/follow/kumar10_tarun?logo=twitter&style=for-the-badge" alt="kumar10_tarun" /></a> </p>
 
