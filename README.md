@@ -32,3 +32,7 @@
 
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=greeky-tarun&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
+
+Watch my contributions get eaten by a snake 🐍
+---
+<img alt="My Snake"  align="center" src="https://github.com/greeky-tarun/greeky-tarun/blob/main/github-contribution-grid-snake.svg" />
