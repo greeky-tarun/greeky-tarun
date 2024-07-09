@@ -29,3 +29,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=greeky-tarun&show_icons=true&locale=en&layout=compact" alt="greeky-tarun" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greeky-tarun&show_icons=true&locale=en" alt="greeky-tarun" /></p>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=greeky-tarun&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=4)
