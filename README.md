@@ -31,7 +31,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=greeky-tarun&show_icons=true&locale=en" alt="greeky-tarun" /></p>
 
 ## 🏆GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=greeky-tarun&theme=onedark)](https://github.com/greeky-tarun/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=greeky-tarun)](https://github.com/greeky-tarun/github-profile-trophy)
 
 Watch my contributions get eaten by a snake 🐍
 ---
